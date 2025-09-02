@@ -1,3 +1,5 @@
-Student Name: Kandukuri Ashalatha
-Cours name :Bsc computers
-How to create:How to create the file,and the edit the file,creation of repository 
+<html>
+<body>
+<h1>Headings</h1>
+</body>
+</html>
